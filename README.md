@@ -16,7 +16,7 @@ Logotipo:
 
 Miembros
  * :bust_in_silhouette:   Alba Guisado Farnes     :octocat:     
- * :bust_in_silhouette:  Denis Valentin Stoyanov D'Antonio     :octocat:
+ * :bust_in_silhouette:  Denis Valentin Stoyanov D'Antonio -> https://github.com/DenisSValentin
 
 ----- 
 
