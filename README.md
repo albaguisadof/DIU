@@ -1,5 +1,5 @@
 # DIU23
-Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: Free Tour ) 
 
 Grupo: DIU2_11Partidazos.  Curso: 2022/23 
 Updated: 08/03/2023
