@@ -15,8 +15,8 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   Alba Guisado Farnes :octocat: @albaguisadof     
- * :bust_in_silhouette:  Denis Valentin Stoyanov D'Antonio :octocat: @DenisSValentin
+ * :bust_in_silhouette:   Alba Guisado Farnes :octocat: https://github.com/albaguisadof     
+ * :bust_in_silhouette:  Denis Valentin Stoyanov D'Antonio :octocat: https://github.com/DenisSValentin
 
 ----- 
 
