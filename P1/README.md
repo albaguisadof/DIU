@@ -40,3 +40,4 @@ Los puntos mejorables son:
   - La complejidad que existe para volver a la página principal.
   - El cambio brusco del diseño al entrar a la página de reserva.
   - Un formulario de reserva más claro y en español.
+  - Apartado de favoritos para una mejor comparación.
