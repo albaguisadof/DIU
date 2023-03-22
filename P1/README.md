@@ -13,7 +13,7 @@
 En el mapa de empatía hemos podido recopilar varios aspectos comunes de las personas que se interesan o directamente contratan estos free tours. Principalmente, tenemos cuatro campos clave, relacionados de dos en dos. Qué dicen los usuarios frente a lo que finalmente hacen, y qué piensan y como se sienten al respecto. Además, hemos podido conseguir información respecto a qué buscan al contratar estos servicios y qué esperan de ellos.
 
 ## Competitive analysis
-Tras comparar varios ascpectos de tres páginas que ofrecen servicios para conocer más la ciudad de Granada, podemos llegar a la conclusión de que la página de Free Tour es la más intuitiva y cómoda para el usuario. Tanto el tablao flamenco como el taller nazarí ofrecen buenos productos pero no quedan nada claro en su páguina web. 
+Tras comparar varios ascpectos de tres páginas que ofrecen servicios para conocer más la ciudad de Granada, podemos llegar a la conclusión de que la página de Free Tour es la más intuitiva y cómoda para el usuario. Tanto el tablao flamenco como el taller nazarí ofrecen buenos productos pero no quedan nada claro en su página web. 
 
 ## Personas
 Hemos seleccionado dos personas completamente diefentes para poder valorar bien como de útil es nuestra web. Mientras que Manolo es un hombre ya jubilado con una vida tranquila y relajada vivendo en un pueblecito pequeño de Granada, Jessy es una madre joven divorciada que decide cambiar de aires y tener una nueva vida en país completamente distinto al que ha vivido toda su vida. Con estas dos personas podremos observar una gran diferencia de usabilidad.
