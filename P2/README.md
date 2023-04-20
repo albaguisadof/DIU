@@ -51,6 +51,8 @@ En la página principal, introducimos con un mensaje promocionando nuestra empre
 
 En el menú de guías, mostramos todos nuestros guías con imágenes que van alternándose en una cinta. Al seleccionar a uno de ellos, se muestra información detallada del mismo así como fotos suyas; todo esto acompañado de un vídeo de presentación realizado por el propio guía. Debajo de esto, nos encontramos de los tours que ya ha realizado el guía, los cuales tienen una sección de comentarios escritos por las personas que asistieron a esos tours. Finalmente, antes del pie de página, se muestran los próximos tours que va a realizar el guía seleccionado por si nos interesa apuntarnos después de toda la información leída acerca de este.
 
+En mi colección, podemos encontrar el apartado de "galería", donde se almacenan todas las fotos que hemos subido desde que nos creamos la cuenta. Además, debajo de esta sección, podemos ir vendo los recuerdos tour por tour con un carrusel. Tras seleccionar uno de los tours, se nos desplegarán todas las fotos subidas de ese tour por los usuarios que asistieron, asñi como sus comentarios. Finalmente, antes del pie de foto, tenemos la opción de añadir nuestros comentarios o publicar nuestras propias imágenes respecto a dicho tour.
+
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
