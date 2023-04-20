@@ -39,6 +39,12 @@ En nuestro ScopeCanvas recopilamos muchas directrices de nuestro poryecto. Entre
 
 ### Prototipo Lo-FI Wireframe 
 
+Para los bocetos nos hemos centrado en tres aspectos clave, los cuales han sido seleccionados a partir de la matriz de tareas por ser los que mayor puntuación y por ende importancia han obtenido. Estos son: la página principal, el menú de guías y la sección de mi colección.
+
+En la página principal, introducimos con un mensaje promocionando nuestra empresa, incentivando al usuario a registrarse en ella. Tras esto, ofrecemos una vista general de todo lo que ofrecemos, entre lo que destacan los tours recomendados, la sección del foro junto a la galería de fotos de los tours y, finalmente, nuestros guías. Como pie de página tenemos nuestras redes sociales y métodos de contacto.
+
+En el menú de guías, mostramos todos nuestros guías con imágenes que van alternándose en una cinta. Al seleccionar a uno de ellos, se muestra información detallada del mismo así como fotos suyas; todo esto acompañado de un vídeo de presentación realizado por el propio guía. Debajo de esto, nos encontramos de los tours que ya ha realizado el guía, los cuales tienen una sección de comentarios escritos por las personas que asistieron a esos tours. Finalmente, antes del pie de página, se muestran los próximos tours que va a realizar el guía seleccionado por si nos interesa apuntarnos después de toda la información leída acerca de este.
+
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
