@@ -15,13 +15,16 @@ En la malla receptora, nuestro principal objetivo era generar una serie de ideas
 
 
 ### PROPUESTA DE VALOR
-* ScopeCanvas
 
 Nuestra página web busca atraer un gran público sin distinción ninguna en él para fomentar el turismo en toda la provincia de Granada. Para ello, ofrecemos una gran variedad de tours donde se pueden recorrer los lugares más icónicos de Granada y sus al rededores. Sin embargo, no nos contentamos quedarnos ahí, por lo que nuestra empresa va mucho más allá, ofreciendo tours por lugares quizás no tan conocidos de Granada; por todo tipo de pueblos de la provincia; por la costa y un sinfín de etc. Además, por si esto no fuera poco, también realizamos tours personalizados, es decir, los lugares que a ti te parezcan interesantes unificados en una sola ruta y explicados por nuestros maravillosos guías.
 
 Pero esto no es todo, pues nuestro objetivo es que una vez realizado un tour, no lo olvides de la noche a la mañana, sino que una parte de él se quede contigo. Es por esto que implementamos una funcionalidad de recuerdos, en los que podrás consultar los tours a los que ya has ido con las respectivas fotos de dicho tour subidas por todos los integrantes del mismo. Y para expandirnos aún más... ¡disponemos de una opción de seguimiento entre usuarios! Con ella, puedes estar al tanto de todo lo que publican los usuarios a los que sigues así como que ellos estén informados de ti. ¿No quieres ser la envidia de todos siendo la persona que más lugares espectaculares visita?
 
 ¿Todavía estás dudando de si unirte a nuestra comunidad o no? En lo que te lo piensas seguro que alguien está a punto de reservar esa última plaza para un tour chulísimo que podría ser tuya. A qué esperas, ¡úntete ya!
+
+* ScopeCanvas
+
+En nuestro ScopeCanvas recopilamos muchas directrices de nuestro poryecto. Entre ellas están: nuestro principal propósito al fundar esta empresa; nuestros objetivos de implementación a corto, medio y largo plazo;las necesidades de los clientes que nos preocupan o nos motivan a trabajar porque nuestra empresa les brinde soluciones; lo que buscamos que hagan los usuarios en nuestra página web; y, por último pero no menos importante, las métricas que vamos a seguir para evaluar si nuestro progreso y nuestra evolución está siendo realmente buena o, por el contrario, nos estamos estancando.
 
 ### TASK ANALYSIS
 
