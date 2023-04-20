@@ -3,7 +3,7 @@
 ### Ideación 
 * Malla receptora de información 
 
-En la malla receptora, nuestro principal objetivo era generar una serie de ideas para implementarlas posteriormente en nuestra página web a partir de los siguientes 4 puntos clave:
+En la malla receptora, nuestro principal objetivo era generar una serie de ideas que definieran el rumbo de nuestra empresa. Para ello nos hemos basado en los siguientes cuatro puntos clave:
 
 1. Interesante/Relevante: En este apartado, hemos recopilado las mejores funcionalidades del resto de empresas que ofrecen servicios parecidos a los nuestros. Son conceptos que no pueden faltar en nuestra página, pues su ausencia nos haría estar un paso por detrás. Entre ellas destacan el uso de asistente en línea las 24 horas del día o un calendario donde se muestra la disponibilidad de los tours de manera sencilla.
 
