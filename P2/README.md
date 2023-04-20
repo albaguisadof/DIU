@@ -30,12 +30,18 @@ En nuestro ScopeCanvas recopilamos muchas directrices de nuestro poryecto. Entre
 
 * User Task Matrix 
 
+En la matriz de tareas de usuario, hemos recopilado todas las funcionalidades de nuestra página web, asignándoles una prioridad dependiendo de si se van a realizar antes, durante o después del tour. Esto nos sirve para ordenarlas por importancia y así saber cuales priorizar. Las que obtengan una puntuación más alta serán las más usadas independientemente del momento en el que se usen; por lo que es en las que debemos centrarnos en desarrollar primero.
+
 
 ### ARQUITECTURA DE INFORMACIÓN
 
 * Sitemap 
+
+En nuestro Sitemap, presentamos la jerarquía que va a seguir nuestra página web, con sus principales menúes y las secciones que se desglosan de cada uno de ellos.
+
 * Labelling 
 
+En el Labelling, explicamos qué son cada una de las secciones de nuestro Sitemap, qué propósito tienen y qué se encontrará el usuario al acceder a ellas. 
 
 ### Prototipo Lo-FI Wireframe 
 
