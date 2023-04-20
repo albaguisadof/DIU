@@ -3,6 +3,8 @@
 ### Ideación 
 * Malla receptora de información 
 
+En la malla receptora, el principal objetivo era obtener ideas clave para nuestra página web. Para ello, nos hemos centrado en los siguienes 4 aspectos clave:
+
 
 ### PROPUESTA DE VALOR
 * ScopeCanvas
