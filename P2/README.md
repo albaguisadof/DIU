@@ -55,4 +55,4 @@ En mi colección, podemos encontrar el apartado de "galería", donde se almacena
 
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
+En conclusión, Granada A Pie busca fomentar el turismo en la provincia de Granada a través de una página web con una gran variedad de tours personalizados y no tan conocidos, así como una funcionalidad de recuerdos y seguimiento entre usuarios para una mayor interación entre ellos. Nos hemos basado en la recopilación de ideas y críticas constructivas de la competencia para mejorar y ofrecer un servicio diferenciado y atractivo para el cliente. Además de la utilización de herramientas como la Malla Receptora de Información y ScopeCanvas que nos permiten establecer las directrices y objetivos del proyecto, y así asegurar su éxito en el mercado.
