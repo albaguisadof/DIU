@@ -13,8 +13,6 @@ Tenemos cuatro variantes del logotipo:
    - Logo más sencillo para modo claro
    - Logo para modo oscuro
    
-
-### Estilo de lenguaje
   
 ## Landing Page
 Buscamos una presentación de nuestro proyecto de una manera atractiva para el usuario. Para ello, nos hemos ayudado de la herramienta [WebFlow](https://webflow.com). Se puede visualizar comodamente a través de este [enlace](https://deniss-stupendous-site-03-4c32b55860345.webflow.io/#https://deniss-stupendous-site-03-4c32b55860345.webflow.io/)
@@ -37,7 +35,7 @@ Nuestra paleta de colores viene formada por cinco colores, son los siguientes:
 - **Verde suave** `#AAB763`
 
 Los colores han sido elegidos estrategicamente para que estos recuerden al usuario a la naturaleza, aire libre, viajes... 
-El color blanco lo contrastaremos con negro para la parte principal. Por el contrario, para realiar el modo oscuro utilizaremos el color Cían profundo junto al blanco como contraste. Para los botones usaremos el naranja junto al blanco para el contraste. El color verde suave junto al blanco lo usaremos para destacados de la página en modo claro u 
+El color blanco lo contrastaremos con negro para la parte principal. Por el contrario, para realiar el modo oscuro utilizaremos el color Cían profundo junto al blanco como contraste. Para los botones usaremos el naranja junto al blanco para el contraste. El color verde suave junto al blanco lo usaremos para destacados de la página en modo claro y para el modo escuro se usará el azul suave junto al negro.
 
 
 ### Iconografía
@@ -45,6 +43,8 @@ El color blanco lo contrastaremos con negro para la parte principal. Por el cont
 ### Tipografías
 
 ### Patrón de diseño
+
+### Estilo de lenguaje
 
 ## Mockup: LAYOUT HI-FI
 
