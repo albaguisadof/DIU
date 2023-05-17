@@ -8,13 +8,13 @@ Para ello se ha seleccionado una imagen de un avión para que el usuario entiend
 
 Tenemos cuatro variantes del logotipo:
 
-  -Isologotipo para una fácil distinción de la marca en modo claro
+   -Isologotipo para una fácil distinción de la marca en modo claro
   
-  -Isologotipo para modo oscuro
+   -Isologotipo para modo oscuro
   
-  -Logo más sencillo para modo claro
+   -Logo más sencillo para modo claro
   
-  -Logo para modo oscuro
+    -Logo para modo oscuro
   
 ## Landing Page
 Buscamos una presentación de nuestro proyecto de una manera atractiva para el usuario. Para ello, nos hemos ayudado de la herramienta [WebFlow](https://webflow.com). Se puede visualizar comodamente a través de este [enlace](https://deniss-stupendous-site-03-4c32b55860345.webflow.io/#https://deniss-stupendous-site-03-4c32b55860345.webflow.io/)
