@@ -12,7 +12,7 @@ Descripción:
 >>> Describa la idea de su producto en la práctica 2 
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+>>> ![Método UX](img/logotipo-1.png)
 
 Miembros
  * :bust_in_silhouette:   Alba Guisado Farnes :octocat: https://github.com/albaguisadof     
@@ -112,6 +112,9 @@ Término | Significado
 >>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
 >>> Incluir Logotipo
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+>>> 
+![Método UX](img/moodboard-1.png)
+![Método UX](img/logotipos-1.png)
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
