@@ -5,7 +5,7 @@ Grupo: DIU2_11Partidazos.  Curso: 2022/23
 Updated: 08/03/2023
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> Explora Granada
 
 Descripción: 
 
@@ -34,6 +34,9 @@ Miembros
 -----
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+>>> 
+![Método UX](img/persona1-1.png)
+![Método UX](img/persona2-1.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
