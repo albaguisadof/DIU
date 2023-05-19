@@ -5,7 +5,7 @@ Grupo: DIU2_11Partidazos.  Curso: 2022/23
 Updated: 08/03/2023
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> Explora Granada
 
 Descripción: 
 
