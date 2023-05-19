@@ -117,6 +117,7 @@ Término | Significado
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
+-----
 Buscamos una presentación de nuestro proyecto de una manera atractiva para el usuario. Para ello, nos hemos ayudado de la herramienta [WebFlow](https://webflow.com). Se puede visualizar comodamente a través de este [enlace](https://deniss-stupendous-site-03-4c32b55860345.webflow.io/#https://deniss-stupendous-site-03-4c32b55860345.webflow.io/)
 
 ![Método UX](P3/LandingPage.png)
