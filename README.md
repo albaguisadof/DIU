@@ -8,8 +8,7 @@ Proyecto:
 >>> Explora Granada
 
 Descripción: 
-
->>> Describa la idea de su producto en la práctica 2 
+>>> Explora Granada busca fomentar el turismo en la provincia de Granada a través de una página web con una gran variedad de tours personalizados y no tan conocidos. Pero esto no es todo, pues nuestro objetivo es que una vez realizado un tour, no lo olvides de la noche a la mañana, sino que una parte de él se quede contigo. Es por esto que contamos con una funcionalidad de recuerdos, en los que podrás consultar los tours a los que ya has ido con las respectivas fotos de dicho tour subidas por todos los integrantes del mismo. Y para expandirnos aún más... ¡disponemos de una opción de seguimiento entre usuarios! Con ella, puedes estar al tanto de todo lo que publican los usuarios a los que sigues así como que ellos estén informados de ti. ¿No quieres ser la envidia de todos siendo la persona que más lugares espectaculares visita?
 
 Logotipo: 
 >>> ![Método UX](img/logotipo-1.png)
