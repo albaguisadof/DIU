@@ -31,9 +31,8 @@ Miembros
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
+Hemos seleccionado dos personas completamente diferentes para poder valorar bien cómo de útil es nuestra web. Mientras que Manolo es un hombre ya jubilado con una vida tranquila y relajada viviendo en un pueblecito pequeño de Granada, Jessy es una madre joven divorciada que decide cambiar de aires y tener una nueva vida en un país completamente distinto al que ha vivido toda su vida. Con estas dos personas podremos observar una gran diferencia de usabilidad.
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
->>> 
 ![Método UX](img/persona1-1.png)
 ![Método UX](img/persona2-1.png)
 
