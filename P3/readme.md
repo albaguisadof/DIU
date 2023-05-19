@@ -39,8 +39,15 @@ El color blanco lo contrastaremos con negro para la parte principal. Por el cont
 
 
 ### Iconografía
+Hemos utilizado los iconos de la [Iconic](https://ionic.io/ionicons/) para neustra página web. Son iconos simples, sencillos e intuitivos para la comodidad del usuario.
 
 ### Tipografías
+Para nuestra tipografía hemos elegido un tipo de letra claro y sencillo que resulte cómodo al usuario. Con esto evitaremos problemas para acceder a nuestra web por parte del cliente con problemas visuales. 
+
+   - **Cabecera (H1)** : La fuente elegida es Montserrat con tamaño 62, será utlizada principalmete para descatar nuestro logo.
+   - **Subcabecera (H2)** : Usaremos Montserrat con tamaño 40 para señalar nuestros subapartados.
+   - **Subcabecera (H3)** : La fuente será Ubuntu con tamaño 18, principalmente se utilizará para el tamaño de los botones de toda la páguina, es la misma fuente que la del cuerpo pero con un tamaño mayor para resaltar estas funcionalidades.
+   - **Cuerpo** : Para la mayor parte de nuesstro texto utilizaremos Ubuntu 16, una letra clara y bastante legible.
 
 ### Patrón de diseño
 
