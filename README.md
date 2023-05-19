@@ -34,6 +34,8 @@ Miembros
 -----
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+>>> (img/persona1-1.png)
+>>> 
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
