@@ -111,12 +111,10 @@ Puede verlos más detalladamente en la siguiente [carpeta](P3/Bocetos)
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
-
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
->>> 
 ![Método UX](img/moodboard-1.png)
+
+Nuestro logo tiene varias varintes. Tenemos un modo oscuro y un modo claro. Además, tenemos un logo más simplificado aunque más difícil de distinguir para los clientes.
+
 ![Método UX](img/logotipos-1.png)
 
 
