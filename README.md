@@ -9,6 +9,7 @@ Proyecto: Explora Granada
 Descripción:  Explora Granada busca fomentar el turismo en la provincia de Granada a través de una página web con una gran variedad de tours personalizados y no tan conocidos. Pero esto no es todo, pues nuestro objetivo es que una vez realizado un tour, no lo olvides de la noche a la mañana, sino que una parte de él se quede contigo. Es por esto que contamos con una funcionalidad de recuerdos, en los que podrás consultar los tours a los que ya has ido con las respectivas fotos de dicho tour subidas por todos los integrantes del mismo. Y para expandirnos aún más... ¡disponemos de una opción de seguimiento entre usuarios! 
 
 Logotipo: 
+
 ![Método UX](img/logotipo-1.png)
 
 Miembros
@@ -43,8 +44,8 @@ Hemos seleccionado dos personas completamente diferentes para poder valorar bien
 ----
 Hemos escogido estas dos situaciones con problemas bastante distintos pero que pueden ser muy frecuentes hoy en día, las cuales son: que el proceso de decidir qué tour realizar entre todos los ofertados sea muy tedioso y complicado; así como que algunos de los campos obligatorios están siempre en un idioma predefinido dando igual cuál esté seleccionado en ese momento.
 
-![Método UX](img/persona1-3.png)
-![Método UX](img/persona2-3.png)
+![Método UX](img/Persona1-3.png)
+![Método UX](img/Persona2-3.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
@@ -77,7 +78,7 @@ Pero esto no es todo, pues nuestro objetivo es que una vez realizado un tour, no
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
-Puede encontrar nuestra User Task Matrix en el siguiente [enlace](P2/User Task Matrix.pdf)
+Puede encontrar nuestra User Task Matrix en el siguiente [enlace](P2/UserTaskMatrix.pdf)
 En la matriz de tareas de usuario, hemos recopilado todas las funcionalidades de nuestra página web, asignándoles una prioridad dependiendo de si se van a realizar antes, durante o después del tour. Esto nos sirve para ordenarlas por importancia y así saber cuales priorizar. Las que obtengan una puntuación más alta serán las más usadas independientemente del momento en el que se usen; por lo que es en las que debemos centrarnos en desarrollar primero.
 
 
@@ -86,7 +87,7 @@ En la matriz de tareas de usuario, hemos recopilado todas las funcionalidades de
 
 En nuestro Sitemap, presentamos la jerarquía que va a seguir nuestra página web, con sus principales menús y las secciones que se desglosan de cada uno de ellos. Puede acceder a el en el siguiente [enlace](P2/SiteMap.pdf)
 
-En el Labelling, explicamos qué son cada una de las secciones de nuestro Sitemap, qué propósito tienen y qué se encontrará el usuario al acceder a ellas. Puede encontrarlo en este [enlace](P2/Labelling .pdf)
+En el Labelling, explicamos qué son cada una de las secciones de nuestro Sitemap, qué propósito tienen y qué se encontrará el usuario al acceder a ellas. Puede encontrarlo en este [enlace](P2/Labelling.pdf)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
@@ -101,7 +102,7 @@ En mi colección, podemos encontrar el apartado de "galería", donde se almacena
 
 ![Método UX](img/bocetos.png)
 
-Puede verlos más detalladamente en la carpeta P3/Bocetos.
+Puede verlos más detalladamente en la siguiente [carpeta](P3/Bocetos)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
@@ -109,13 +110,12 @@ Puede verlos más detalladamente en la carpeta P3/Bocetos.
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
+Hemos creado un tablón inspiracional dónde hemos recogido ideas para realizar el estilo visual de nuestra aplicación Explora Granada. 
 
-
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
->>> 
 ![Método UX](img/moodboard-1.png)
+
+Nuestro logo tiene varias varintes. Tenemos un modo oscuro y un modo claro. Además, tenemos un logo más simplificado aunque más difícil de distinguir para los clientes.
+
 ![Método UX](img/logotipos-1.png)
 
 
