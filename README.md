@@ -157,6 +157,15 @@ Para nuestra tipografía hemos elegido un tipo de letra claro y sencillo que res
 
 ### Patrón de diseño
 
+Principalmente hemos utilizado el patrón de diseño en franjas horizontales. Cada franja actúa a modo de pantalla completa (o casi) y convierte su contenido en una sorpresa para el usuario cada vez que hace scroll. 
+
+Tanto para el landing page como para el inicio de la página princial también se utlizado el patrón F. Es decir, la sección superior horizontal de la página recibe gran parte de nuestra atención y, a continuación, dejamos caer nuestra mirada verticalmente hacia la izquierda que se convierte en nuestro punto de referencia.
+
+
+### Estilo de lenguaje
+El estilo del lenguaje utilizado en la documentación es claro y conciso. Se utilizan frases directas y simples para describir cada elemento. Además, se proporciona información relevante de manera ordenada, lo que facilita la comprensión de los diferentes aspectos del proyecto.
+
+
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
@@ -175,9 +184,7 @@ Página de mis recuerdos:
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+Puede ver nuestra web en [ExploraGranada](https://deniss-stupendous-site-0364a1.webflow.io/)
 
 
 ## Paso 4. Evaluación 
