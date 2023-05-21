@@ -110,6 +110,7 @@ Puede verlos más detalladamente en la siguiente [carpeta](P3/Bocetos)
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
+Hemos creado un tablón inspiracional dónde hemos recogido ideas para realizar el estilo visual de nuestra aplicación Explora Granada. 
 
 ![Método UX](img/moodboard-1.png)
 
