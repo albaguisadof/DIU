@@ -102,7 +102,7 @@ En mi colección, podemos encontrar el apartado de "galería", donde se almacena
 
 ![Método UX](img/bocetos.png)
 
-Puede verlos más detalladamente en la carpeta P3/Bocetos.
+Puede verlos más detalladamente en la siguiente [carpeta](P3/Bocetos)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
