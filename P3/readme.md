@@ -50,8 +50,12 @@ Para nuestra tipografía hemos elegido un tipo de letra claro y sencillo que res
    - **Cuerpo** : Para la mayor parte de nuesstro texto utilizaremos Ubuntu 16, una letra clara y bastante legible.
 
 ### Patrón de diseño
+Principalmente hemos utilizado el patrón de diseño en franjas horizontales. Cada franja actúa a modo de pantalla completa (o casi) y convierte su contenido en una sorpresa para el usuario cada vez que hace scroll. 
+
+Tanto para el landing page como para el inicio de la página princial también se utlizado el patrón F. Es decir, la sección superior horizontal de la página recibe gran parte de nuestra atención y, a continuación, dejamos caer nuestra mirada verticalmente hacia la izquierda que se convierte en nuestro punto de referencia.
 
 ### Estilo de lenguaje
+El estilo del lenguaje utilizado en la documentación es claro y conciso. Se utilizan frases directas y simples para describir cada elemento. Además, se proporciona información relevante de manera ordenada, lo que facilita la comprensión de los diferentes aspectos del proyecto.
 
 ## Mockup: LAYOUT HI-FI
 Hemos desarrolado los bocetos realizados en la práctica anterior para dar forma a nuestra web. Se puede visitar en el siguiente [enlace](https://deniss-stupendous-site-0364a1.webflow.io/)
@@ -68,6 +72,8 @@ Página de mis recuerdos:
 
 ## Documentación: Publicación del Case Study
 
+Puede ver nuestra web en [ExploraGranada](https://deniss-stupendous-site-0364a1.webflow.io/)
 
-(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
+En conclusión, hemos conseguido darle forma a nuestra web. Esta ha sido una tarea algo laboriosa que nos ha llevado bastante esfuerzo y tiempo realizar, aunque finalmente hemos obtenido un buen resultado. Es primordial seguir los pasos de investigación indicados para su ejecución para obtener un correcto trabajo.
+
  
