@@ -2,7 +2,7 @@
 Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: Free Tour ) 
 
 Grupo: DIU2_11Partidazos.  Curso: 2022/23 
-Updated: 08/03/2023
+Updated: 21/05/2023
 
 Proyecto: 
 >>> Explora Granada
@@ -29,7 +29,7 @@ Miembros
 Las páginas que heemos comparado son: 
 - https://freetour-granada.com/
 - https://alboreaflamenco.com/
--  https://artesanianazari.es/
+- https://artesanianazari.es/
  
 Tras comparar varios aspectos de tres páginas que ofrecen servicios para conocer más la ciudad de Granada, podemos llegar a la conclusión de que la página de Free Tour con una puntuación de 91% es la más intuitiva y cómoda para el usuario. Tanto el tablao flamenco como el taller nazarí ofrecen buenos productos pero no queda nada claro en su página web. El tablao flamenco tiene una puntuación de 42% porque tiene una buena idea pero no es nada atractiva mientras que el taller de artesanía nazarí tiene una puntuación de 25% al tener una muy mala funcionalidad y falta de información.
 
@@ -43,9 +43,7 @@ Hemos seleccionado dos personas completamente diferentes para poder valorar bien
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
-
-
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+Hemos escogido estas dos situaciones con problemas bastante distintos pero que pueden ser muy frecuentes hoy en día, las cuales son: que el proceso de decidir qué tour realizar entre todos los ofertados sea muy tedioso y complicado; así como que algunos de los campos obligatorios están siempre en un idioma predefinido dando igual cuál esté seleccionado en ese momento.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
