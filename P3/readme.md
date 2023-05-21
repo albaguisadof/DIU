@@ -54,6 +54,10 @@ Para nuestra tipografía hemos elegido un tipo de letra claro y sencillo que res
 ### Estilo de lenguaje
 
 ## Mockup: LAYOUT HI-FI
+Hemos desarrolado los bocetos realizados en la práctica anterior para dar forma a nuestra web. Se puede visitar en el siguiente [enlace](https://deniss-stupendous-site-0364a1.webflow.io/)
+![Método UX](P3/Web_PaginaPrincipal.png)
+![Método UX](P3/Web_Guias.png)
+![Método UX](P3/Web_MisRecuerdos.png)
 
 
 ## Documentación: Publicación del Case Study
