@@ -126,7 +126,6 @@ Buscamos una presentación de nuestro proyecto de una manera atractiva para el u
 ![Método UX](P3/LandingPage.png)
 
 
->>> Plantear Landing Page 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
@@ -202,7 +201,7 @@ Se puede visitar el proyecto en https://github.com/Rodrigo23301/DIU-P1/tree/mast
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
- 
+ Hemos selccionado cuatro usuarios que pertecen a diferentes grupos de edades y que tienen formas de vida completamente distinta para poder valorar correctamente ambas aplicaciones. Estos se detallan en la siguiente tabla:
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
@@ -215,6 +214,10 @@ Se puede visitar el proyecto en https://github.com/Rodrigo23301/DIU-P1/tree/mast
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
+Tras la selección de nuestro usuarios, han sido encuestados para poder valorar y comparar nuestros dos casos de estudio. 
+Para el caso de estudio tipo A tenemos una puntuación aceptable tipo C para un primer usuario y aceptable tipo A para el segundo usuario. Con esto podemos afirmar que la web es bastante buena y sencilla para el uso de los usuarios.
+Sin embargo, para el caso de estudio tipo B se ha obtenido una puntuación marginal D. La web tiene bastante partes a mejorar para un mejor uso por parte de sus clientes. 
+
 ![Método UX](img/SUS.png)
  
 
@@ -222,11 +225,36 @@ Se puede visitar el proyecto en https://github.com/Rodrigo23301/DIU-P1/tree/mast
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+A partir de la información proporcionada por parte de los usuarios que han evaluado la página web “La Alboreá”, hemos podido concluir que la página en rasgos generales está bien organizada y distribuida. Intenta mantener la simetría y la misma relación de columnas. Es decir, tiene una interfaz bien definida y estructurada.
+Además, a la hora de reservar, el proceso se hace bastante sencillo e intuitivo; por lo que cumple con lo esperado para esta página.
+Es agradable ver cómo no sólo ofrecen actuaciones, sino que también puedes aprender flamenco gracias a las clases que ofrecen; y, junto a esto, poder dejar tus reseñas en la web.
 
+Sin embargo, tiene bastantes aspectos que podrían mejorarse:
 
+La aplicación tiene un tono muy oscuro constantemente, esto, para personas con problemas de vista, podría suponer un gran problema para encontrar lo que buscan.
 
->>> Valoración personal 
+Todas las secciones tienen siempre los mismos tonos, negro y rojo; no distinguiendo de ninguna forma apartados más importantes de los menos importantes.
+
+Los tonos de la página no cambian al cambiar de sección, por lo que es fácil perderte y no saber dónde te encuentras realmente.
+
+No tiene apartado de Accesibilidad en el pie de página, lo que puede generar que personas con algún tipo de discapacidad tengan que llamar directamente al lugar para informarse de algo. Esto podría suponer una finalmente no reserva, ya sea por falta de tiempo para llamar, o porque no pueden hacerlo y luego se les olvida que iban a reservar, etc.
+
+No hay una forma de decidir ágilmente entre los distintos tipos de actuaciones.
+
+No hay información detallada sobre las actuaciones.
+
+No disponen de recordatorios cuando se acerque el día del evento si tenemos las entradas compradas.
+
+No hay forma de marcar un evento en favoritos y que nos recuerde tras unos días que sigue disponible o, por el contrario, que se están agotando las plazas.
+
+No hay ninguna forma de saber la disponibilidad total de entradas de los espectáculos.
+
+No hay forma de ir directamente desde la sección “Agenda”, donde se encuentran las próximas actuaciones, a la pestaña de reserva; sino que, por el contrario, debes manualmente meterte a buscar esa misma actuación desde el menú de Reservar.
+
+No puedes registrarte, por lo que no pueden llevar ningún tipo de seguimiento de quién eres ni cuántas veces has contratado sus servicios. Sería útil sobre todo para el tema de las clases.
+
+Con todas estas cosas a mejorar, podemos concluir que la página ofrece los servicios esperados pero ni por asomo de la mejor manera. Hay muchos aspectos que podrían mejorarse ya no a nivel de ofrecer más servicios, lo cuál también le vendría bien. Sino a nivel de ser más atractiva para el ojo del cliente que está interesado en navegar por la misma.
+
 
 ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
 
