@@ -215,8 +215,8 @@ Se puede visitar el proyecto en https://github.com/Rodrigo23301/DIU-P1/tree/mast
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
-
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+![Método UX](img/SUS.png)
+ 
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
