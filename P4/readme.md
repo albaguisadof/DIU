@@ -21,15 +21,15 @@ Sin embargo, para el caso de estudio tipo B se ha obtenido una puntuación margi
 * Tareas realizadas 
 Para cada una de las tareas a realizar por los usuarios, hemos querido extraer algunos de los puntos clave de la página para determinar si estas funcionalidades son realmente importantes o están pasando a un segundo plano. Para ello, cada usuario ha tenido que marcar con un tic si lo ha hecho o una equis en caso contrario. Las tareas evaluadas han sido las siguientes:
 
-- Reservar actuación.
-- Añadir comida o bebida a la actuación.
-- Añadir opinión.
-- Cancelar reserva.
-- Contratar clases.
-- Consultar accesibilidad.
-- Consultar calendario.
-- Buscar un artista específico.
-- Visitar la página de nuevo.
+ Reservar actuación.
+ Añadir comida o bebida a la actuación.
+ Añadir opinión.
+ Cancelar reserva.
+ Contratar clases.
+ Consultar accesibilidad.
+ Consultar calendario.
+ Buscar un artista específico.
+ Visitar la página de nuevo.
 
 Como conclusión podemos determinar que las tareas más importantes son reservar, dejar una opinión y consultar el calendario con las diferentes. Sin embargo, las tarea que menos se han realizado ha sido la de cancelar reserva que en realidad es un punto positivo. 
 
