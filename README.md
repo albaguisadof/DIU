@@ -194,29 +194,27 @@ Puede ver nuestra web en [ExploraGranada](https://deniss-stupendous-site-0364a1.
 ----
 
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+La Alboreá es una página web que ofrece espectáculos de flamenco en la ciudad de Granada. Para elegir espectáculo, tenemos un calendario con los próximos artistas que irán al local, así como la función de buscar un artista en concreto para saber si va a ir y, si es así, que día lo hará. Junto a la reserva de dichas actuaciones, podemos elegir si queremos que nos sirvan cena o no, así como embutidos y bebidas.
+
+Se puede visitar el proyecto en https://github.com/Rodrigo23301/DIU-P1/tree/master
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
  
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Belén  | M / 17   | Estudiante  | Media       | Extrovertida | móvil       | B 
+| Jose Luis  | H / 53   | Fontanero  | Media       | Activo       | Web        | B 
+| Valentina | M / 74   | Jubilada   | Baja        | Emocional    | móvil      | A 
+| User4's name  | H / 24   | DJ  | Media       | Aventurero    | Web        | A 
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 
 >>> Adjuntar captura de imagen con los resultados + Valoración personal 
 
@@ -230,8 +228,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 >>> Valoración personal 
 
-
->>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
+## Paso 5. Evaluación de Accesibilidad  (no necesaria)
 
 
 >>> ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
