@@ -231,27 +231,7 @@ Es agradable ver cómo no sólo ofrecen actuaciones, sino que también puedes ap
 
 Sin embargo, tiene bastantes aspectos que podrían mejorarse:
 
-La aplicación tiene un tono muy oscuro constantemente, esto, para personas con problemas de vista, podría suponer un gran problema para encontrar lo que buscan.
-
-Todas las secciones tienen siempre los mismos tonos, negro y rojo; no distinguiendo de ninguna forma apartados más importantes de los menos importantes.
-
-Los tonos de la página no cambian al cambiar de sección, por lo que es fácil perderte y no saber dónde te encuentras realmente.
-
-No tiene apartado de Accesibilidad en el pie de página, lo que puede generar que personas con algún tipo de discapacidad tengan que llamar directamente al lugar para informarse de algo. Esto podría suponer una finalmente no reserva, ya sea por falta de tiempo para llamar, o porque no pueden hacerlo y luego se les olvida que iban a reservar, etc.
-
-No hay una forma de decidir ágilmente entre los distintos tipos de actuaciones.
-
-No hay información detallada sobre las actuaciones.
-
-No disponen de recordatorios cuando se acerque el día del evento si tenemos las entradas compradas.
-
-No hay forma de marcar un evento en favoritos y que nos recuerde tras unos días que sigue disponible o, por el contrario, que se están agotando las plazas.
-
-No hay ninguna forma de saber la disponibilidad total de entradas de los espectáculos.
-
-No hay forma de ir directamente desde la sección “Agenda”, donde se encuentran las próximas actuaciones, a la pestaña de reserva; sino que, por el contrario, debes manualmente meterte a buscar esa misma actuación desde el menú de Reservar.
-
-No puedes registrarte, por lo que no pueden llevar ningún tipo de seguimiento de quién eres ni cuántas veces has contratado sus servicios. Sería útil sobre todo para el tema de las clases.
+La aplicación tiene un tono muy oscuro constantemente, podría ser un problema para personas con discapacidad visual.No tiene apartado de Accesibilidad en el pie de página, lo que puede generar que personas con algún tipo de discapacidad tengan que llamar directamente al lugar para informarse de algo. No disponen de recordatorios cuando se acerque el día del evento si tenemos las entradas compradas, ni forma de marcar un evento en favoritos y que nos recuerde tras unos días que sigue disponible o, por el contrario, que se están agotando las plazas.Así como tampoco hay forma de saber la disponibilidad total de entradas de los espectáculos.
 
 Con todas estas cosas a mejorar, podemos concluir que la página ofrece los servicios esperados pero ni por asomo de la mejor manera. Hay muchos aspectos que podrían mejorarse ya no a nivel de ofrecer más servicios, lo cuál también le vendría bien. Sino a nivel de ser más atractiva para el ojo del cliente que está interesado en navegar por la misma.
 
