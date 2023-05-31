@@ -208,7 +208,7 @@ Se puede visitar el proyecto en https://github.com/Rodrigo23301/DIU-P1/tree/mast
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
 | Belén  | M / 17   | Estudiante  | Media       | Extrovertida | móvil       | B 
 | Jose Luis  | H / 53   | Fontanero  | Media       | Activo       | Web        | B 
-| Valentina | M / 74   | Jubilada   | Baja        | Emocional    | móvil      | A 
+| Valentina | M / 73   | Jubilada   | Baja        | Emocional    | móvil      | A 
 | User4's name  | H / 24   | DJ  | Media       | Aventurero    | Web        | A 
 
 
