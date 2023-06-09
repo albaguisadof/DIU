@@ -248,11 +248,11 @@ Contamos con 4 usuarios, uno de ellos es un experto. Esto nos permite hacer una 
 
 El heatmep resultante es el siguiente: 
 
-![Método UX](HeatmapExploraGranada.png)
+![Método UX](P5/HeatmapExploraGranada.png)
 
 El análisis obtenido resultante del experimento se puede observar en la siguiente imagen:
 
-![Método UX](AnalisisExploraGranada.png)
+![Método UX](P5/AnalisisExploraGranada.png)
 
 Como resumen, podemos llegar a la conclusión de que en todas las páginas se puede apreciar que la información más llamativa para los usuarios es la que se encuentra en la parte central. Esta fue nuestra intención desde un principio, poner la parte más importante en el centro de la web. 
 
