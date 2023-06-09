@@ -10,7 +10,7 @@ Hemos selccionado cuatro usuarios que pertecen a diferentes grupos de edades y q
 | Belén  | M / 17   | Estudiante  | Media       | Extrovertida | móvil       | B 
 | Jose Luis  | H / 53   | Fontanero  | Media       | Activo       | Web        | B 
 | Valentina | M / 74   | Jubilada   | Baja        | Emocional    | móvil      | A 
-| User4's name  | H / 24   | DJ  | Media       | Aventurero    | Web        | A 
+| Boris  | H / 24   | DJ  | Media       | Aventurero    | Web        | A 
 
 
 * A/B Testing. 
