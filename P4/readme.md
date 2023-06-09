@@ -2,7 +2,7 @@
 
 Las aplicaciones que bamos a evaluar en esta práctica serán 2. El caso A se refiere a nuestra web y el caso B a "La Alboreá", esta última se puede encontrar en este [enlace](https://github.com/Rodrigo23301/DIU-P1/tree/master).
 
-* Users 
+* Users:
 Hemos selccionado cuatro usuarios que pertecen a diferentes grupos de edades y que tienen formas de vida completamente distinta para poder valorar correctamente ambas aplicaciones. Estos se detallan en la siguiente tabla:
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
