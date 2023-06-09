@@ -236,20 +236,32 @@ La aplicación tiene un tono muy oscuro constantemente, podría ser un problema 
 Con todas estas cosas a mejorar, podemos concluir que la página ofrece los servicios esperados pero ni por asomo de la mejor manera. Hay muchos aspectos que podrían mejorarse ya no a nivel de ofrecer más servicios, lo cuál también le vendría bien. Sino a nivel de ser más atractiva para el ojo del cliente que está interesado en navegar por la misma.
 
 
-## Paso 5. Evaluación de Accesibilidad  (no necesaria)
+## Paso 5. Evaluación de Accesibilidad  
 
 
->>> ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
->>>> ----
+![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
+----
 
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
+En esta práctica tenemos como objetivo evaluar la usabilidad. Para ello, se ha utilizado la herramienta [Gaze Recorder](https://gazerecorder.com/) que nos permite hacer un estudio de las partes más interesantes para nuestro usarios. Gaze recorder realizar un heatmap del recorrido que han realizado nuestros uusarios por nuestra web, además es posible realizar un análisis de las partes más destacables de la web. 
 
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
->>> 5.b) Uso de simuladores de accesibilidad 
+Contamos con 4 usuarios, uno de ellos es un experto. Esto nos permite hacer una comparación entre el recorrido que realiza una persona experta con un usuario estandar. Les hemos pedido que hagan un recorrido sobre nuestra web para así observar las áreas por las que más se interesan. Con los resultados podremos evaluar si se han conseguidos nuestros objetivos y se cumplen que nuesrtas areas de interés son las mismas para los usuarios. 
 
->>> (uso de tabla de datos, indicar herramientas usadas) 
+El heatmep resultante es el siguiente: 
 
->>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
+![Método UX](HeatmapExploraGranada.png)
+
+El análisis obtenido resultante del experimento se puede observar en la siguiente imagen:
+
+![Método UX](AnalisisExploraGranada.png)
+
+Como resumen, podemos llegar a la conclusión de que en todas las páginas se puede apreciar que la información más llamativa para los usuarios es la que se encuentra en la parte central. Esta fue nuestra intención desde un principio, poner la parte más importante en el centro de la web. 
+
+Sin embargo, un rasgo a cambiar sería el logotipo. Únicamente se ha fijado en el logotipo el experto, el resto de usuarios no le han prestado atención, por lo que nunca nos reconoceran por encontrar nuestro logo por alguna web. Puede que el problema de este es el tamaño, un tamaño mayor puede ayudar a este problema.
+
+Es de destacar también que los usuarios apenas se fijan en sitios dónde se encuentra mucho texto. Por eso, debemos de hcaer que todas las imágenes trasmitan nuestro objetivo como sitio web a los usuarios en una rápida mirada. Si existe algún texto que queramos destacar este debe de tener un color o un tamaño de letra que contraste. 
+
+Concluimos que nuestro sitio web transmite a primera vista nuestro objetivo pero existen rasgos a cambiar, como es el caso del logotipo, para una mejor experiencia para nuestros usuarios.
+
 
 
 
