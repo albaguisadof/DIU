@@ -268,7 +268,7 @@ Concluimos que nuestro sitio web transmite a primera vista nuestro objetivo pero
 ## Conclusión final / Valoración de las prácticas
 
 
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+El proyecto "Explora Granada" fue un desafío donde pudímos aplicar nuestros conocimientos de diseño de interfaz de usuario y experiencia de usuario para crear una página web atractiva y funcional. A través de investigaciones exhaustivas, diseñamos una página de inicio atractiva y desarrollanos una experiencia de usuario efectiva. El proceso nos permitió adquirir experiencia práctica en el diseño de interfaces y en la creación de una experiencia única. En general, el proyecto fue gratificante y nos ha dejado satisfechos con los resultados obtenidos.
 
 
 
