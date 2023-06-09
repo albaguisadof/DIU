@@ -1,6 +1,6 @@
 ## Practica 5: entregables 
 
-En esta práctica tenemos como objetivo evaluar la usabilidad. Para ello, se ha utilizado la herramienta [Gaze Recorder]((https://gazerecorder.com/) que nos permite hacer un estudio de las partes más interesantes para nuestro usarios. Gaze recorder realizar un heatmap del recorrido que han realizado nuestros uusarios por nuestra web, además es posible realizar un análisis de las partes más destacables de la web. 
+En esta práctica tenemos como objetivo evaluar la usabilidad. Para ello, se ha utilizado la herramienta [Gaze Recorder](https://gazerecorder.com/) que nos permite hacer un estudio de las partes más interesantes para nuestro usarios. Gaze recorder realizar un heatmap del recorrido que han realizado nuestros uusarios por nuestra web, además es posible realizar un análisis de las partes más destacables de la web. 
 
 Contamos con 4 usuarios, uno de ellos es un experto. Esto nos permite hacer una comparación entre el recorrido que realiza una persona experta con un usuario estandar. Les hemos pedido que hagan un recorrido sobre nuestra web para así observar las áreas por las que más se interesan. Con los resultados podremos evaluar si se han conseguidos nuestros objetivos y se cumplen que nuesrtas areas de interés son las mismas para los usuarios. 
 
